@@ -1,4 +1,3 @@
-Available at https://doi.org/10.1145/3534678.3539482
 
 ## Dependencies
 Recent versions of the following packages for Python 3 are required:
